@@ -2,7 +2,7 @@
 Dewcoin token platform lending project.
 
 
-DEWCOIN Specification
+# DEWCOIN Specification
 
 Coin Algorithm Scrypt (PoS)
 Coin Abbreviation : DWC
@@ -14,14 +14,14 @@ Minimum Stake Age : 30 Days
 Maximum Stake Age : 90 Days
 
 
-Refer whitepaper for more info: https://[Suspicious link removed]/taCS9G
+# Refer whitepaper for more info: https://[Suspicious link removed]/taCS9G
 
 Please Follow us For more and exciting Updates at :
 
-Facebook : https://www.facebook.com/dewcoinglobaloffical
+# Facebook : https://www.facebook.com/dewcoinglobaloffical
 
-Twitter : https://twitter.com/dewcoin
+# Twitter : https://twitter.com/dewcoin
 
-Telegram : https://t.me/Dewcoin
+# Telegram : https://t.me/Dewcoin
 
-Register: http://www.dewcoin.co/
+# Register: http://www.dewcoin.co
