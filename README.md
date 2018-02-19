@@ -14,8 +14,6 @@ Minimum Stake Age : 30 Days
 Maximum Stake Age : 90 Days
 
 
-# Refer whitepaper for more info: https://[Suspicious link removed]/taCS9G
-
 Please Follow us For more and exciting Updates at :
 
 # Facebook : https://www.facebook.com/dewcoinglobaloffical
